@@ -1,0 +1,7 @@
+For Automation Testing
+Install Selenium package for java then extract
+refer https://www.seleniumhq.org/download
+ and latest Chrome-driver (Web-driver)
+refer http://chromedriver.chromium.org/downloads
+Add all the external jar files in the library of java project in Eclipse
+use setProperty() method to get chromebrowser.exe in the code (main method)

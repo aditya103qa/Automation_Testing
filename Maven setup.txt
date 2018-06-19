@@ -1,0 +1,19 @@
+Maven installation 
+Install apache maven binary file
+extraxt 
+Copy the path and add it to the variable enviroment
+to check in cmd
+mvn
+mvn -version
+
+--------------------------
+in eclipse go to eclipse marketplace
+search for maven
+install maven integration for eclipse (m2e)
+after intallation 
+go to file-> new project -> others -> (search for maven) maven project -> next ->
+ enter group id (com.qait.Name)
+ artifact id (Name)
+-> Finish
+then open the pom.xml -> under dependencies tag add dependency tags of selenium java, selenium chrome driver etc 
+refer https://mvnrepository.com/artifact/org.seleniumhq.selenium
