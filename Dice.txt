@@ -1,0 +1,3 @@
+Dice program is made to take-in the input from the user as the no. of sides of the dice.
+There is a roll function which will return the no. present on the side of the dice in string on random basis.
+for which intance of Random class in java is used.

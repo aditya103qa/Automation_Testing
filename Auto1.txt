@@ -1,0 +1,3 @@
+The program is basic example of java code using selenium and chrome-browser web-driver.
+It is for testing the opening of Microsoft's Bing search engine page and entering the
+ text in search bar to get the search results.
