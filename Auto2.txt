@@ -1,0 +1,7 @@
+Basic coarse under 10.0.1.86\tatoc
+The code carries all the automated test cases comes under the basic coarse of TATOC.
+1.GRID GATE
+2.FRAME DUNGEON
+3.DRAG AROUND
+4.POPUP WINDOWS
+5.COOKIE HANDLING
