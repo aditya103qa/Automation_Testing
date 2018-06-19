@@ -1,0 +1,14 @@
+Topics Covered :
+-Basics of Java
+JRE and JDK Installation.
+-Eclipse IDE
+Installation of IDE for coding.
+-Selemium with Java
+Selenium jar files installation.
+-Chrome Driver with Java
+web-driver for chrome web-browser installation.
+-TATOC
+test cases for basic course of  Tatoc in selenium.
+-MAVEN
+Maven set up in Eclipse with all the dependencies in Maven repositories.
+-Page objects in Maven
